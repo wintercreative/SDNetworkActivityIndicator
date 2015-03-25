@@ -1,0 +1,17 @@
+{
+  "name": "SDNetworkActivityIndicator",
+  "version": "0.0.2",
+  "summary": "Handle show/hiding of the iOS network activity indicator.",
+  "homepage": "https://github.com/rs/SDNetworkActivityIndicator",
+  "license": "MIT",
+  "authors": "rs",
+  "source": {
+    "git": "https://github.com/rokgregoric/SDNetworkActivityIndicator.git",
+    "commit": "fc16648a10d2d5c573ea7328dbff852d3a94652b"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": null
+  }
+}
